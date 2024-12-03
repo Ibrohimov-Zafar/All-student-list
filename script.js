@@ -23,7 +23,7 @@
     "SHOHAKBAR ANVARJONOV", 
     "SARDOR ERKINOV DILSHOD O'G'LI", 
     "SHOXRUZBEK ABDURAXMONOV AZIZBEK O'G'LI"
-    "SHIRINOV SHOXRUH SHAVKATOVICH"
+     
 ];
 
  document.getElementById("tanlashBtn").addEventListener("click", function() {
